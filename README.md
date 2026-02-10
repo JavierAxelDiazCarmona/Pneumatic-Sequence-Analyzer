@@ -35,3 +35,10 @@ El sistema identificará automáticamente los 4 grupos de presión y generará l
 
 ---
 *Desarrollado como herramienta de apoyo para la asignatura de Automatización Industrial.*
+
+---
+## Derechos de Autor
+
+Copyright © 2026. Todos los derechos reservados.
+
+Este proyecto y todo su contenido, incluyendo el código fuente y la documentación, son propiedad de su autor. No se permite la reproducción, distribución o modificación de este material sin el consentimiento previo y por escrito del titular de los derechos.
